@@ -1,0 +1,22 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+.retalho{
+    background-color: black;
+    color: gray;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+}
+.retalho-imagem{
+    width: 60%;
+
+}
+.retalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+
+}
